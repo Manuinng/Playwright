@@ -15,4 +15,3 @@ class addCart:
             print("Producto agregado")
         else:
             print("No hay productos en el carrito")
-        time.sleep(5)
